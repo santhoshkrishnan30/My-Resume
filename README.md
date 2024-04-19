@@ -1,4 +1,4 @@
-# Santhosh Krishnan R. -  Resume
+# Santhosh Krishnan R -  Resume.
 
 Welcome to my Data Science resume repository! Here you'll find my resume detailing my education, projects, experience, skills, and certifications in the field of Data Science and Data engineering.
 
